@@ -1,0 +1,16 @@
+PODS:
+  - AntmanTechiOSToolBox (0.1.0)
+
+DEPENDENCIES:
+  - AntmanTechiOSToolBox (from `../`)
+
+EXTERNAL SOURCES:
+  AntmanTechiOSToolBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AntmanTechiOSToolBox: 220daf6ec709486b35a16628b3e165d11787f473
+
+PODFILE CHECKSUM: 308dd840837513e71744abaed0d74b82ded02991
+
+COCOAPODS: 1.0.1

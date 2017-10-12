@@ -1,0 +1,22 @@
+{
+  "name": "AntmanTechiOSToolBox",
+  "version": "0.1.0",
+  "summary": "A short description of AntmanTechiOSToolBox.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Anthony@antmantech/AntmanTechiOSToolBox",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Anthony@antmantech": "anthony@antman.tech"
+  },
+  "source": {
+    "git": "https://github.com/Anthony@antmantech/AntmanTechiOSToolBox.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AntmanTechiOSToolBox/Classes/**/*"
+}

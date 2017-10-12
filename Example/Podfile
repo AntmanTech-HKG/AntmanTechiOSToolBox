@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AntmanTechiOSToolBox_Example' do
+  pod 'AntmanTechiOSToolBox', :path => '../'
+
+  target 'AntmanTechiOSToolBox_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

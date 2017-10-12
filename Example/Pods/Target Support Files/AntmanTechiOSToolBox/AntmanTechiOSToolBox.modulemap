@@ -1,0 +1,6 @@
+framework module AntmanTechiOSToolBox {
+  umbrella header "AntmanTechiOSToolBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
